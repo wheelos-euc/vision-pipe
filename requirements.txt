@@ -1,0 +1,15 @@
+# Core deep learning frameworks
+torch
+torchvision
+
+# YOLO training and inference framework
+ultralytics
+
+# Other common helper libraries
+numpy
+opencv-python
+pillow
+pyyaml
+tqdm
+
+streamlit
